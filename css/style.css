@@ -1,7 +1,16 @@
 /* style.css */
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Amatic SC', cursive;
     margin: 0;
     padding: 0;
+    background-color: #591516;
+    font-size: 1.7rem;    
+}
+
+.container {
+    background-image: url(../img/vintage.jpg);
+    background-size: cover;
 }
